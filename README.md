@@ -1,1 +1,1 @@
-# coding-project-template
+A simple budget tracking app.
